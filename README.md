@@ -14,7 +14,7 @@ Windows PC 上で python 3.8.3 を使用しました。
 まともに動かなかったりファイルが壊れたりしても当方は一切責任を負いません。リスクを承知の上で使ってください。
 
 This script converts a kamata user file with extension .kamata_programs, which is made by KORG gadget 2 VSTi, into WAV files.  
-Their format is 8Bit, 48kHz and monoral and they have 32 samples.
+Their format is 8Bit, 48kHz and monoaural and they have 32 samples.
 When you run this script, a new folder will be created with the "YYMMDDhhmmss" format as the date and time of execution.  
 The script will create wav files inside the folder. Each file corresponds to one of user defined wavetables stored in the kamata user file.  
 The wav files are named by sequential numbers from 001 followed by the first 12 characters of the name used in kamata.  
